@@ -24,5 +24,4 @@ Welcome to the Catering Order Application! This web application allows users to 
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/your-username/catering-order-app.git
+  https://github.com/poulami1111/catering--order-booking.git
